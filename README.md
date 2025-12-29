@@ -102,7 +102,7 @@ ROS-integrated control system with live camera feeds and remote operation.
 
 - 📧 Email: **MohsinTaj1111@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/Mohsin-Taj](https://linkedin.com/in/Mohsin-Taj)
-- 🌐 Portfolio: [Mohsin-Taj](https:/mohsintaj.com)
+- 🌐 Portfolio: [Mohsin-Taj](https://mohsintaj.com)
 
 ---
 
