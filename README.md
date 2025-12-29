@@ -1,7 +1,7 @@
 # Hi, I'm Mohsin Taj 👋
 
 🚀 Technical Lead | Research Engineer | Full Stack & Systems Developer  
-🎓 MSc (Computer Networks & System Security)  
+🎓 ME (Computer Networks & System Security)  
 🏫 NCAI Research Lab, NED University, Pakistan  
 
 ---
@@ -92,7 +92,7 @@ ROS-integrated control system with live camera feeds and remote operation.
 ## 🎯 Career Goals
 
 - Build impactful large-scale software systems
-- Work in global technology organizations (Siemens, Huawei, etc.)
+- Work in global technology organizations 
 - Continue research alongside industry work
 - Long-term goal: **Professor & Technology Leader**
 
@@ -102,7 +102,7 @@ ROS-integrated control system with live camera feeds and remote operation.
 
 - 📧 Email: **MohsinTaj1111@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/Mohsin-Taj](https://linkedin.com/in/Mohsin-Taj)
-- 🌐 Portfolio: *Coming soon*
+- 🌐 Portfolio: [Mohsin-Taj](https:/mohsintaj.com)
 
 ---
 
