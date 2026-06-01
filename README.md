@@ -1,6 +1,6 @@
 # Hi, I'm Mohsin Taj 👋
 
-🚀 Tech Lead | Research Engineer | Full Stack & Systems Developer  
+🚀 Research Engineer | Electronics | Full Stack & Systems Developer  
 🎓 ME (Computer Networks & System Security)  
 🏫 NCAI Research Lab, NED University, Pakistan  
 
